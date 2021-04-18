@@ -1,0 +1,15 @@
+h1{
+    background-color: coral;
+}
+
+ol{
+    font-size: 25px;
+}
+
+ol li{
+    color: darkblue;
+}
+
+h3{
+    text-decoration: overline;
+}
